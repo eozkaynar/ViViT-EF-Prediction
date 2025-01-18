@@ -1,0 +1,21 @@
+# Virtual environment
+myenv/
+Video-Vision-Transformer/myvenv/
+
+# Data and dataset files
+data/
+classification/dataset.npz
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE/Editor specific files
+.idea/
+.vscode/
+
+# Outputs
+output/
+hyperparam_outputs/
+
+*.log
